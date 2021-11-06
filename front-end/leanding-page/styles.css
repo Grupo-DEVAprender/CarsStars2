@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  
+}
+
+.logo {
+  text-decoration-line: none;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo > span {
+  color: #FFCF5C;
+}
